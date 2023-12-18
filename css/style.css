@@ -967,3 +967,12 @@ p {
   color: #333;
   background-color: transparent;
 }
+
+#personSideDown{
+  margin: auto;
+  
+}
+
+#personSideDown, #personSideUp {
+  margin-top: 40px;
+}
